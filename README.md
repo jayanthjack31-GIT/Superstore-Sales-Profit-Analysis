@@ -1,4 +1,4 @@
-# Superstore-Sales-Profit-Analysis
+# SUPERSTORE-SALES-PROFIT-ANALYSIS
 
  Built an interactive Sales & Profit dashboard by extracting and modeling data from PostgreSQL into Power BI, uncovering
  key insights such as $2.3M total sales, $286K profit, and 47% contribution from the Consumer segment. Identified the
