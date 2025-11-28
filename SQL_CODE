@@ -10,8 +10,6 @@ This repository highlights practical SQL skills including data exploration, grou
 and performance-driven query structuring—providing actionable insights for business intelligence scenarios.
 
 
-
-
 SELECT * FROM  SUPERSTORE_DATA
 SELECT * FROM RETURN_DATA
 SELECT * FROM PERSON_DATA
