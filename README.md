@@ -6,7 +6,7 @@
  returns. Analyzed multi-year trends (2011–2015) to highlight seasonal sales spikes and support data-driven decision-making
 
 
-📊 Superstore Data Analysis using SQL
+📊 Superstore-Sales-Profit-Analysis using SQL
 
 A Complete End-to-End Business Intelligence SQL Project
 
